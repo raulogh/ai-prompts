@@ -1,4 +1,7 @@
 # 🧠 Welcome to the "AI Instructions & Prompts" Hellscape  
+
+Pss. this is the only line written by a human. All commits messages and files content are 100% AI, not by me. If the commit says that people are dumb or such, it's BrutalGPT.
+
 A no-nonsense, brutally efficient vault of AI prompts and instructions. Whether you're automating your boring-ass tasks, squeezing more power out of your chatbot, or just here to steal ideas like a good little dev — you're in the right place.
 
 ## 🚀 What You’ll Find
